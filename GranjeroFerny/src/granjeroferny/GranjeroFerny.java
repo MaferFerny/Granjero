@@ -7,7 +7,7 @@ package granjeroferny;
 
 /**
  *
- * @author hp4ESCARCEGA
+ * @author ferny
  */
 public class GranjeroFerny {
 
